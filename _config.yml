@@ -1,0 +1,19 @@
+title: 黑神话悟空攻略
+description: 《黑神话：悟空》全攻略 - 主线流程、BOSS打法、技能BD、装备图鉴
+baseurl: "/black-myth-wukong-guide"
+url: ""
+
+markdown: kramdown
+theme: minima
+
+navigation:
+  - title: 首页
+    url: /
+  - title: 主线流程
+    url: /walkthrough/
+  - title: BOSS攻略
+    url: /boss/
+  - title: 技能BD
+    url: /skills/
+  - title: 装备图鉴
+    url: /equipment/
