@@ -8,12 +8,12 @@ theme: minima
 
 navigation:
   - title: 首页
-    url: /
+    url: /black-myth-wukong-guide/
   - title: 主线流程
-    url: /walkthrough/
+    url: /black-myth-wukong-guide/walkthrough/
   - title: BOSS攻略
-    url: /boss/
+    url: /black-myth-wukong-guide/boss/
   - title: 技能BD
-    url: /skills/
+    url: /black-myth-wukong-guide/skills/
   - title: 装备图鉴
-    url: /equipment/
+    url: /black-myth-wukong-guide/equipment/

@@ -12,25 +12,25 @@ title: 黑神话悟空攻略
   <div class="feature">
     <h2>主线流程</h2>
     <p>按章节整理的通关指南，记录每个土地庙和关键点</p>
-    <a href="/walkthrough/">查看详情 →</a>
+    <a href="/black-myth-wukong-guide/walkthrough/">查看详情 →</a>
   </div>
 
   <div class="feature">
     <h2>BOSS攻略</h2>
     <p>各章节重点BOSS打法，帮你攻克难点</p>
-    <a href="/boss/">查看详情 →</a>
+    <a href="/black-myth-wukong-guide/boss/">查看详情 →</a>
   </div>
 
   <div class="feature">
     <h2>技能BD</h2>
     <p>棍法流派、加点推荐、变身技能搭配</p>
-    <a href="/skills/">查看详情 →</a>
+    <a href="/black-myth-wukong-guide/skills/">查看详情 →</a>
   </div>
 
   <div class="feature">
     <h2>装备图鉴</h2>
     <p>武器、防具、葫芦等装备获取与属性</p>
-    <a href="/equipment/">查看详情 →</a>
+    <a href="/black-myth-wukong-guide/equipment/">查看详情 →</a>
   </div>
 </div>
 
